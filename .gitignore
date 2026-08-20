@@ -1,0 +1,13 @@
+# Editor Files
+./vscode
+
+# Configs
+config.yml
+config.yaml
+config.json
+
+# Enviornment Files (similar to Config)
+.env
+
+# Cache
+__pycache__/
