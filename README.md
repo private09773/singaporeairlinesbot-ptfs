@@ -13,4 +13,5 @@
 ## Installation
 > See [GUIDE.md](GUIDE.md) for installation instructions.
 
-## Licen> See [LICENSE.md](LICENSE.md). This project is licensed under the GNU LGPL v3.0.3.0
+## License
+> See [LICENSE.md](LICENSE.md). This project is licensed under the GNU LGPL v3.0.3.0
